@@ -1,0 +1,66 @@
+[
+  {
+    "id": "marmara",
+    "region": "Marmara Bölgesi",
+    "minlat": 39.22,
+    "maxlat": 42.07,
+    "minlon": 25.51,
+    "maxlon": 32.1
+  },
+  {
+    "id": "ege",
+    "region": "Ege Bölgesi",
+    "minlat": 36.5,
+    "maxlat": 39.5,
+    "minlon": 25.16,
+    "maxlon": 31.53
+  },
+  {
+    "id": "akdeniz",
+    "region": "Akdeniz Bölgesi",
+    "minlat": 35.18,
+    "maxlat": 37.18,
+    "minlon": 27.02,
+    "maxlon": 37.04
+  },
+  {
+    "id": "karadeniz",
+    "region": "Karadeniz Bölgesi",
+    "minlat": 40.14,
+    "maxlat": 42.26,
+    "minlon": 31.11,
+    "maxlon": 42.28
+  },
+  {
+    "id": "ic_anadolu",
+    "region": "İç Anadolu Bölgesi",
+    "minlat": 37.25,
+    "maxlat": 40.37,
+    "minlon": 29.43,
+    "maxlon": 37.52
+  },
+  {
+    "id": "dogu_anadolu",
+    "region": "Doğu Anadolu Bölgesi",
+    "minlat": 36.5,
+    "maxlat": 41.45,
+    "minlon": 37.4,
+    "maxlon": 44.52
+  },
+  {
+    "id": "guneydogu_anadolu",
+    "region": "Güneydoğu Anadolu Bölgesi",
+    "minlat": 36.29,
+    "maxlat": 38.25,
+    "minlon": 36.3,
+    "maxlon": 44.6
+  },
+  {
+    "id": "turkiye",
+    "region": "Türkiye",
+    "minlat": 35.2,
+    "maxlat": 42.34,
+    "minlon": 25.14,
+    "maxlon": 45.34
+  }
+]
